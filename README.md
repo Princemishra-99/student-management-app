@@ -116,9 +116,7 @@ pm2 save
 
 ---
 
-## Live Demo
-## Live Demo
-- **Live URL:** `http://43.205.228.247:5000`
+
 - **GitHub Repo:** `https://github.com/Princemishra-99/student-management-app`
 
 ## Author

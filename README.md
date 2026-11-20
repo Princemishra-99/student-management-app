@@ -48,7 +48,6 @@ student-management-app/
    ```
    npm start
    ```
-6. Open `http://localhost:5000` in your browser.
 
 ---
 
